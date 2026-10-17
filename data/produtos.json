@@ -1,0 +1,110 @@
+{
+  "produtos": [
+    {
+      "nome": "Baunilha & Âmbar",
+      "categoria": "velas",
+      "descricao": "Doce, cremosa e quente.",
+      "preco": 42,
+      "status": "disponivel",
+      "quantidade": 12,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": true,
+      "novo": false
+    },
+    {
+      "nome": "Lavanda do Campo",
+      "categoria": "velas",
+      "descricao": "Calmante, ótima para a noite.",
+      "preco": 42,
+      "status": "poucas",
+      "quantidade": 3,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": true,
+      "novo": false
+    },
+    {
+      "nome": "Figo & Cedro",
+      "categoria": "velas",
+      "descricao": "Amadeirada com toque frutado.",
+      "preco": 46,
+      "status": "disponivel",
+      "quantidade": 8,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": false,
+      "novo": true
+    },
+    {
+      "nome": "Algodão Cru",
+      "categoria": "velas",
+      "descricao": "Limpa, leve e macia.",
+      "preco": 40,
+      "status": "esgotado",
+      "quantidade": 0,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": false,
+      "novo": false
+    },
+    {
+      "nome": "Canela & Laranja",
+      "categoria": "velas",
+      "descricao": "Aconchego de dia frio.",
+      "preco": 44,
+      "status": "esgotado",
+      "quantidade": 0,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": true,
+      "novo": false
+    },
+    {
+      "nome": "Chá Verde",
+      "categoria": "velas",
+      "descricao": "Fresca e herbal.",
+      "preco": 46,
+      "preco_promocional": 40,
+      "status": "promocao",
+      "quantidade": 10,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": false,
+      "novo": false
+    },
+    {
+      "nome": "Kit Duo Aconchego",
+      "categoria": "kits",
+      "descricao": "2 velas em caixa de presente.",
+      "preco": 84,
+      "preco_promocional": 79,
+      "status": "promocao",
+      "quantidade": 6,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": true,
+      "novo": false
+    },
+    {
+      "nome": "Kit Casa Cheirosa",
+      "categoria": "kits",
+      "descricao": "3 velas para a casa toda.",
+      "preco": 119,
+      "status": "grande",
+      "quantidade": 20,
+      "foto": "",
+      "galeria": [],
+      "mensagem_whatsapp": "",
+      "mais_amada": false,
+      "novo": false
+    }
+  ]
+}
