@@ -2,12 +2,13 @@
   "produtos": [
     {
       "foto": "https://tudosobrecachorros.com.br/wp-content/uploads/cachorro-esfregando-bumbum-chao-1024x590.jpg",
-      "quantidade": 12,
+      "quantidade": 3,
       "mensagem_whatsapp": "",
       "descricao": "Doce, cremosa e quente.",
-      "preco": 67.67,
+      "preco": 10,
+      "preco_promocional": 5,
       "mais_amada": true,
-      "status": "disponivel",
+      "status": "poucas",
       "categoria": "velas",
       "galeria": [],
       "nome": "Baunilha & Âmbar",
