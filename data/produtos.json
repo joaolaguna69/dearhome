@@ -1,21 +1,21 @@
 {
   "produtos": [
     {
-      "foto": "https://tudosobrecachorros.com.br/wp-content/uploads/cachorro-esfregando-bumbum-chao-1024x590.jpg",
+      "foto": "/img/produtos/img_6538.jpeg",
       "quantidade": 3,
       "mensagem_whatsapp": "",
       "descricao": "Doce, cremosa e quente.",
-      "preco": 10,
-      "preco_promocional": 5,
+      "preco": 56.3,
+      "preco_promocional": 42.24,
       "mais_amada": true,
       "status": "poucas",
       "categoria": "velas",
       "galeria": [],
-      "nome": "Baunilha & Âmbar",
+      "nome": "Vanilla",
       "novo": false
     },
     {
-      "foto": "",
+      "foto": "/img/produtos/img_6538.jpeg",
       "quantidade": 3,
       "mensagem_whatsapp": "",
       "descricao": "Calmante, ótima para a noite.",
@@ -24,11 +24,11 @@
       "status": "poucas",
       "categoria": "velas",
       "galeria": [],
-      "nome": "Lavanda do Campo do cu seco",
+      "nome": "Lavanda & baunilha ",
       "novo": false
     },
     {
-      "foto": "",
+      "foto": "/img/produtos/img_6541.jpeg",
       "quantidade": 8,
       "mensagem_whatsapp": "",
       "descricao": "Amadeirada com toque frutado.",
@@ -41,7 +41,7 @@
       "novo": true
     },
     {
-      "foto": "",
+      "foto": "/img/produtos/img_6539.jpeg",
       "quantidade": 0,
       "mensagem_whatsapp": "",
       "descricao": "Limpa, leve e macia.",
@@ -54,7 +54,7 @@
       "novo": false
     },
     {
-      "foto": "",
+      "foto": "/img/produtos/img_6540.jpeg",
       "quantidade": 0,
       "mensagem_whatsapp": "",
       "descricao": "Aconchego de dia frio.",
@@ -64,34 +64,6 @@
       "categoria": "velas",
       "galeria": [],
       "nome": "Canela & Laranja",
-      "novo": false
-    },
-    {
-      "foto": "",
-      "quantidade": 10,
-      "mensagem_whatsapp": "",
-      "descricao": "Fresca e herbal.",
-      "preco": 46,
-      "preco_promocional": 40,
-      "mais_amada": false,
-      "status": "promocao",
-      "categoria": "velas",
-      "galeria": [],
-      "nome": "Chá Verde",
-      "novo": false
-    },
-    {
-      "foto": "",
-      "quantidade": 6,
-      "mensagem_whatsapp": "",
-      "descricao": "2 velas em caixa de presente.",
-      "preco": 84,
-      "preco_promocional": 79,
-      "mais_amada": true,
-      "status": "promocao",
-      "categoria": "kits",
-      "galeria": [],
-      "nome": "Kit Duo Aconchego",
       "novo": false
     }
   ]
